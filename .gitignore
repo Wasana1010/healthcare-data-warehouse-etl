@@ -1,0 +1,12 @@
+# Environments & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+.venv/
+env/
+
+# OS Specific
+.DS_Store
+Thumbs.db
